@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+}
+.main {
+    text-align: center;
+}
+.task_head {
+    font-size: 20px;
+    padding: 20px;
+}
+#add-task-btn {
+    background-color: rgba(94, 129, 244, 1);
+    width: 192px;
+    height: 48px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    border: none; 
+    outline: none;
+} 
+#add-task-btn:hover {
+    background-color: #1b9e24;
+    border: none; 
+    outline: none;
+} 
+.body {
+    text-align: center;
+}
